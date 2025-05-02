@@ -134,6 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/avocasa](https://github.com/yourusername/avocasa)
+Project Link: [https://github.com/zraib/avocasa](https://github.com/zraib/avocasa)
