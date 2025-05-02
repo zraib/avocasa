@@ -11,7 +11,7 @@ import { useTranslation } from 'react-i18next';
 function App() {
   const { t } = useTranslation();
   
-  // Update document title based on language
+  // mise à jours de l'inteface en fonction de la langue
   React.useEffect(() => {
     document.title = t('siteTitle');
   }, [t]);
