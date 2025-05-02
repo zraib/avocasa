@@ -2,7 +2,7 @@
 
 A modern, multilingual React website for AvoCasa, Morocco's premier avocado producer and exporter. Built with React, TypeScript, Tailwind CSS, and Framer Motion.
 
-![AvoCasa Screenshot](https://images.pexels.com/photos/2827374/pexels-photo-2827374.jpeg?auto=compress&cs=tinysrgb&w=1600)
+![AvoCasa Screenshot]([https://images.pexels.com/photos/2827374/pexels-photo-2827374.jpeg?auto=compress&cs=tinysrgb&w=1600](https://images.unsplash.com/photo-1718829732697-740b87cf509b?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
 
 ## Features
 
