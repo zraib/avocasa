@@ -1,0 +1,163 @@
+{
+  "siteTitle": "AvoCasa - Aguacates Premium de Marruecos",
+  "languages": {
+    "english": "Inglés",
+    "french": "Francés",
+    "spanish": "Español",
+    "select": "Seleccionar idioma",
+    "toggle": "Cambiar idioma"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "products": "Productos",
+    "sustainability": "Sostenibilidad",
+    "contact": "Contacto"
+  },
+  "theme": {
+    "light": "Modo Claro",
+    "dark": "Modo Oscuro"
+  },
+  "hero": {
+    "title": "Aguacates Premium de Marruecos",
+    "subtitle": "Cultivados Sosteniblemente, Amados Globalmente",
+    "cta": "Solicitar Cotización"
+  },
+  "about": {
+    "title": "Sobre AvoCasa",
+    "subtitle": "Principal Productor de Aguacates de Marruecos",
+    "intro": "Fundada en 2010, AvoCasa combina la sabiduría agrícola tradicional marroquí con prácticas sostenibles modernas para producir los mejores aguacates de la región.",
+    "description": "Ubicada en la fértil región de Souss-Massa, nuestros huertos se benefician del clima único de Marruecos y su rico suelo, produciendo aguacates con un sabor y textura excepcionales que tienen una gran demanda en los mercados europeos y globales.",
+    "history": {
+      "title": "Nuestra Historia",
+      "content": "Comenzando con solo 50 hectáreas en las fértiles estribaciones del Atlas, nos hemos convertido en el principal exportador de aguacates de Marruecos, abasteciendo a mercados premium en todo el mundo.",
+      "foundation": "Fundación",
+      "foundationText": "AvoCasa fue fundada con la visión de producir aguacates premium mientras respetamos las prácticas agrícolas tradicionales marroquíes e implementamos métodos de agricultura sostenible. Comenzando con solo 50 hectáreas en las estribaciones del Atlas.",
+      "exports": "Primeras Exportaciones",
+      "exportsText": "Después de establecer una producción de calidad consistente, comenzamos a exportar a mercados europeos, ganando rápidamente una reputación por nuestros aguacates excepcionales que combinaban calidad con prácticas sostenibles. Nuestros primeros envíos a Francia y España marcaron el comienzo de nuestro viaje global.",
+      "certification": "Certificación y Expansión",
+      "certificationText": "Logramos la certificación orgánica y el estatus GlobalG.A.P., validando nuestro compromiso con prácticas respetuosas con el medio ambiente. Expandimos nuestros huertos a 200 hectáreas y diversificamos nuestras variedades de aguacate para incluir Hass, Fuerte y Bacon.",
+      "innovation": "Innovación y Alcance Global",
+      "innovationText": "Invertimos en tecnología de empaque y cadena de frío de última generación, permitiéndonos extender nuestro alcance a mercados en Asia y Medio Oriente. Nuestro compromiso con la innovación llevó a técnicas mejoradas de conservación de agua que redujeron nuestro uso de agua en un 60%."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "quality": "Calidad Sin Compromiso",
+      "qualityText": "Nunca comprometemos la calidad, asegurando que cada aguacate que sale de nuestra granja cumple con nuestros exigentes estándares.",
+      "sustainability": "Gestión Ambiental",
+      "sustainabilityText": "Estamos comprometidos con la gestión ambiental, implementando prácticas de conservación de agua, salud del suelo y protección de la biodiversidad.",
+      "integrity": "Integridad Comercial",
+      "integrityText": "Construimos relaciones a largo plazo basadas en la confianza, la transparencia y el cumplimiento constante de nuestras promesas.",
+      "community": "Apoyo Comunitario",
+      "communityText": "Invertimos en nuestras comunidades locales, proporcionando salarios justos, apoyo sanitario y oportunidades educativas."
+    },
+    "team": {
+      "title": "Nuestro Liderazgo",
+      "description": "Nuestro experimentado equipo combina la sabiduría agrícola tradicional con la experiencia moderna para producir los mejores aguacates de Marruecos.",
+      "ceo": "Fundador y CEO",
+      "ceoDescription": "Con más de 25 años de experiencia agrícola, Hassan combina la sabiduría agrícola tradicional con prácticas innovadoras.",
+      "operations": "Directora de Operaciones de Exportación",
+      "operationsDescription": "Laila asegura que nuestros aguacates lleguen a los mercados globales en perfectas condiciones mientras gestiona nuestra red logística.",
+      "agricultural": "Director Agrícola",
+      "agriculturalDescription": "Omar lidera nuestras iniciativas de agricultura sostenible, especializándose en conservación de agua y gestión del suelo."
+    },
+    "cta": {
+      "title": "¿Listo para Asociarte con el Principal Productor de Aguacates de Marruecos?",
+      "description": "Únete a nuestra red de socios globales y lleva el auténtico sabor de los aguacates marroquíes a tus clientes."
+    }
+  },
+  "products": {
+    "title": "Nuestros Aguacates Premium",
+    "intro": "Nos especializamos en cultivar y exportar los mejores aguacates marroquíes, cuidadosamente cultivados en nuestros huertos y entregados a mercados de todo el mundo.",
+    "varieties": {
+      "title": "Variedades de Aguacate",
+      "hass": {
+        "name": "Aguacate Hass",
+        "description": "Nuestra variedad insignia, conocida por su textura rica y cremosa y su sabor a nuez. Perfecto para guacamole y consumo directo.",
+        "season": "Temporada Principal: Octubre a Mayo",
+        "sizes": "Tamaños: 12, 14, 16, 18, 20, 22, 24"
+      },
+      "fuerte": {
+        "name": "Aguacate Fuerte",
+        "description": "Piel lisa y verde con pulpa verde pálido. Sabor ligeramente más ligero que el Hass con un mayor contenido de aceite.",
+        "season": "Temporada Principal: Noviembre a Marzo",
+        "sizes": "Tamaños: 14, 16, 18, 20, 22"
+      },
+      "bacon": {
+        "name": "Aguacate Bacon",
+        "description": "Piel fina y verde oscura con pulpa de color claro. Sabor más suave y menor contenido de aceite que el Hass.",
+        "season": "Temporada Principal: Octubre a Enero",
+        "sizes": "Tamaños: 16, 18, 20, 22"
+      }
+    },
+    "specifications": {
+      "title": "Especificaciones de Exportación",
+      "packaging": "Opciones de Embalaje",
+      "cartons": "Cajas de 4kg y 10kg",
+      "bulk": "Embalaje a granel disponible para distribuidores",
+      "certifications": "Certificaciones",
+      "organic": "Certificado Orgánico",
+      "globalGap": "Certificado GlobalG.A.P.",
+      "brc": "Certificado BRC Food Safety"
+    }
+  },
+  "sustainability": {
+    "title": "Nuestro Compromiso con la Sostenibilidad",
+    "intro": "La sostenibilidad no es solo una práctica en AvoCasa — es nuestra promesa al medio ambiente, nuestras comunidades y las generaciones futuras.",
+    "waterManagement": {
+      "title": "Gestión del Agua",
+      "content": "Nuestros sistemas de riego por goteo reducen el uso de agua en un 60% en comparación con métodos tradicionales, mientras que la recolección de agua de lluvia nos ayuda a minimizar nuestra huella ambiental."
+    },
+    "soilHealth": {
+      "title": "Salud del Suelo",
+      "content": "Utilizamos compost orgánico y fertilizantes naturales para mantener la vitalidad del suelo sin productos químicos dañinos, promoviendo la biodiversidad y la productividad a largo plazo."
+    },
+    "biodiversity": {
+      "title": "Preservación de la Biodiversidad",
+      "content": "Nuestros huertos integran plantas y árboles nativos, creando hábitats naturales para insectos beneficiosos y aves que ayudan con el control natural de plagas."
+    },
+    "socialResponsibility": {
+      "title": "Responsabilidad Social",
+      "content": "Proporcionamos salarios justos, atención médica y apoyo educativo para nuestros trabajadores y sus familias, invirtiendo en las comunidades que nos ayudan a crecer."
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos aquí para responder a sus consultas",
+    "info": {
+      "address": "Dirección",
+      "addressLine1": "Route de Marrakech, Km 15",
+      "addressLine2": "Agadir, Marruecos",
+      "phone": "Teléfono",
+      "email": "Email"
+    },
+    "form": {
+      "name": "Nombre",
+      "company": "Empresa",
+      "email": "Email",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "interest": "Estoy interesado en",
+      "wholesale": "Venta al por Mayor",
+      "distribution": "Distribución",
+      "partnership": "Asociación",
+      "other": "Otro",
+      "submit": "Enviar Mensaje",
+      "success": "Su mensaje ha sido enviado. ¡Nos pondremos en contacto con usted pronto!",
+      "error": "Hubo un error al enviar su mensaje. Por favor, inténtelo de nuevo."
+    }
+  },
+  "cta": {
+    "quote": "Solicitar Cotización",
+    "catalog": "Descargar Catálogo",
+    "chat": "Chatear con Nosotros",
+    "ready": "¿Listo para Experimentar los Aguacates Premium de Marruecos?",
+    "join": "Únase a nuestra red global de socios satisfechos y lleve el rico sabor de los aguacates marroquíes a sus clientes."
+  },
+  "footer": {
+    "description": "AvoCasa es el principal productor y exportador de aguacates de alta calidad de Marruecos, comprometido con la agricultura sostenible y la calidad excepcional del producto.",
+    "links": "Enlaces Rápidos",
+    "certifications": "Certificaciones",
+    "copyright": "© 2025 AvoCasa. Todos los derechos reservados."
+  }
+}
